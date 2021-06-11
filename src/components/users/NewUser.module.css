@@ -1,0 +1,32 @@
+.form {
+  padding: 2rem;
+}
+
+.formField:not(:last-child) {
+  margin-bottom: 1.5rem;
+}
+
+.formField label,
+.formField input {
+  display: block;
+}
+
+label {
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
+input {
+  width: 100%;
+  padding: 1rem;
+  font-size: 2rem;
+}
+
+.form button {
+  cursor: pointer;
+  padding: 1rem 2rem;
+  font-size: 1.8rem;
+  border: 0.1rem solid #000;
+  color: #fff;
+  background-color: #ad166d;
+}

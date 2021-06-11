@@ -1,0 +1,10 @@
+.user {
+  list-style: none;
+  padding: 2rem 1rem;
+  font-size: 2rem;
+  border: 0.1rem solid #555;
+}
+
+.user:not(:last-child) {
+  margin-bottom: 1rem;
+}

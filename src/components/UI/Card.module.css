@@ -1,0 +1,8 @@
+.container {
+  font-size: 1.6rem;
+  background-color: #fff;
+  max-width: 110rem;
+  margin: 3rem auto;
+  border-radius: 2rem;
+  padding: 1rem;
+}
